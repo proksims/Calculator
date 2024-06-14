@@ -6,6 +6,8 @@ In this project you will implement an extended version of the usual calculator, 
 Besides calculating expressions, it should also support the use of the _x_ variable and the graphing of the corresponding function.
 As for other improvements you can consider a credit.
 
+![Calc](img/calc.png)
+
 - **Arithmetic operators**:
 
   | Operator name  | Infix notation <br /> (Classic) | Prefix notation <br /> (Polish notation) | Postfix notation <br /> (Reverse Polish notation) |
