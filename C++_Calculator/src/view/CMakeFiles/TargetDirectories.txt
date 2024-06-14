@@ -1,0 +1,8 @@
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/view.dir
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/edit_cache.dir
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/rebuild_cache.dir
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/list_install_components.dir
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/install.dir
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/install/local.dir
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/install/strip.dir
+/home/nomacold/Documents/GIT/Calculator/C++_Calculator/src/view/CMakeFiles/view_autogen.dir
